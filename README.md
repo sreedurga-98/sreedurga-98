@@ -1,4 +1,4 @@
-Hai i'am Sreedurga
+Hai i'am Sreedurga.
 I am a Data Science student with strong foundational knowledge in Python, NumPy, Pandas, Statistics, SQL, Machine Learning, Deep Learning, and Exploratory Data Analysis (EDA). I have worked on multiple real-world and academic projects that demonstrate my ability to clean data, analyze patterns, build predictive models, and extract meaningful insights.
 
 My projects include;
